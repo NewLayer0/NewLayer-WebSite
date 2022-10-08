@@ -1,5 +1,5 @@
 <?php
-$input = array("music.mp3", "music2.mp3", "music3.mp3", "music4.mp3", "music5.mp3");
+$input = array("music.mp3", "music2.mp3", "music3.mp3", "music4.mp3");
 $rand_keys = array_rand($input, 2);
 ?>
 
